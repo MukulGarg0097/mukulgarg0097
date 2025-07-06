@@ -8,7 +8,7 @@
 
 | Degree / Program                          | Institution                        | Location        | Years         |
 |------------------------------------------|------------------------------------|------------------|---------------|
-| AI & Data Science (Postgrad Certificate) | Loyalist College, Toronto          | Canada           | 2024–2025     |
+| AI & Data Science (Postgrad Certificate) | Loyalist College        | Toronto, Canada           | 2024–2025     |
 | B.Tech in Electronics & Communication          | Chandigarh Engineering College     | Mohali, India    | 2015–2019     |
 
 ---
