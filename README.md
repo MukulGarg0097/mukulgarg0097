@@ -1,8 +1,4 @@
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=🧑‍💻+Mukul+Garg+-+AI+Explorer+%7C+Developer+%7C+Designer;Solving+Real-World+Problems+with+Data+%26+Code;Turning+Ideas+into+Impactful+Projects" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hey, I'm Mukul Garg 👋</h1>
 <h3 align="center">Data Scientist • Java Developer • IoT & AI Enthusiast</h3>
 
