@@ -58,6 +58,10 @@
 
 ### 🚀 Featured Projects
 
+#### 🧬 BioMed RAG Chatbot
+**FAISS + Sentence Transformers + Gemma**
+🔍 Retrieval-Augmented Generation chatbot for biomedical research, leveraging FAISS vector store and local LLM for evidence-based, context-aware answers.
+
 #### 🥗 Calorie Detection from Food Images  
 **CNN + OpenCV + TensorFlow + Flask UI**  
 ⏱️ Real-time calorie estimator (92% accuracy)
