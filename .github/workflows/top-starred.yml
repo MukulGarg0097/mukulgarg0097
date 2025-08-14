@@ -1,0 +1,83 @@
+name: Update Top Starred Repos
+
+on:
+  schedule:
+    - cron: "17 1 * * *"   # runs daily at 01:17 UTC (randomized minute to avoid rate limits)
+  workflow_dispatch:        # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  update-top-starred:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build Top Starred list and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = 'MukulGarg0097';
+
+            // 1) Fetch up to 100 owned repos
+            const repos = await github.paginate(github.rest.repos.listForUser, {
+              username: owner,
+              per_page: 100,
+              type: 'owner',
+              sort: 'updated',
+              direction: 'desc'
+            });
+
+            // 2) Filter non-forks, sort by stars desc, take top 6
+            const top = repos
+              .filter(r => !r.fork)
+              .sort((a,b) => b.stargazers_count - a.stargazers_count)
+              .slice(6 > 0 ? 0 : 0, 6);
+
+            // 3) Create markdown lines
+            const lines = top.map(r => {
+              const name = r.name;
+              const url = r.html_url;
+              const desc = (r.description || '').replace(/\r?\n/g,' ').trim();
+              const stars = r.stargazers_count;
+              const updated = new Date(r.updated_at).toISOString().slice(0,10);
+              return `- [${name}](${url}) — ${desc || 'No description'} • ⭐ ${stars} • ⏱️ ${updated}`;
+            });
+
+            const fs = require('fs');
+            const path = 'README.md';
+            const start = '<!-- TOPSTAR:START -->';
+            const end   = '<!-- TOPSTAR:END -->';
+
+            if (!fs.existsSync(path)) {
+              core.setFailed('README.md not found in repository root.');
+              return;
+            }
+
+            const readme = fs.readFileSync(path, 'utf8');
+
+            if (!readme.includes(start) || !readme.includes(end)) {
+              core.setFailed('Markers not found in README.md (<!-- TOPSTAR:START --> / <!-- TOPSTAR:END -->).');
+              return;
+            }
+
+            const block = `${start}\n${lines.join('\n')}\n${end}`;
+            const updatedReadme = readme.replace(
+              new RegExp(`${start}[\\s\\S]*?${end}`),
+              block
+            );
+
+            if (updatedReadme !== readme) {
+              fs.writeFileSync(path, updatedReadme);
+              core.info('README updated with Top Starred Repos.');
+            } else {
+              core.info('No changes to README (Top Starred unchanged).');
+            }
+
+      - name: Commit changes (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Top Starred Repos"
+          file_pattern: README.md
