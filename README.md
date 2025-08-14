@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 GitHub Stats (Auto-updating)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulGarg0097&theme=tokyonight" />
 </p>
