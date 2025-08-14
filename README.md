@@ -73,6 +73,11 @@
 
 ---
 
+### ⭐ Top Starred Repositories
+<!-- TOPSTAR:START -->
+<!-- TOPSTAR:END -->
+
+---
 
 ### 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulgarg0097/)
