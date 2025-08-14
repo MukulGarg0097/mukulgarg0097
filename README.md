@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgres,git,github,linux,docker,aws,tensorflow,sklearn,opencv,pyTorch,hibernate,postman,html,css,js&theme=dark" />
 </p>
 
-**ML/AI:** Python · TensorFlow · scikit-learn · OpenCV · CNN · EDA  
+**ML/AI:** Python · TensorFlow · scikit-learn · OpenCV · CNN · EDA  · Transformers  · RAG  · NLP  · Computer Vision  · RL        
 **Viz/BI:** Power BI · Pandas · Matplotlib · Streamlit  
 **Backend/DB:** Java · Spring Boot · Hibernate · REST · MySQL · Postman  
 **Cloud/Tools:** AWS EC2 · Docker · Git · Raspberry Pi · Arduino
