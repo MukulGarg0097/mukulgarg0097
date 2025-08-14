@@ -1,92 +1,59 @@
-<!-- Typing SVG -->
-<h1 align="center">Hey, I'm Mukul Garg 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mukul%20Garg&fontAlign=50&fontColor=ffffff&color=0:0ea5e9,100:22c55e" />
+</p>
+
+<h2 align="center">👋 Hey, I'm Mukul Garg</h2>
 <h3 align="center">Data Scientist • Java Developer • IoT & AI Enthusiast</h3>
 
----
-
-### 🎓 Education
-
-| Degree / Program                          | Institution                        | Location        | Years         |
-|------------------------------------------|------------------------------------|------------------|---------------|
-| AI & Data Science (Postgrad Certificate) | Loyalist College        | Toronto, Canada           | 2024–2025     |
-| B.Tech in Electronics & Communication          | Chandigarh Engineering College     | Mohali, India    | 2015–2019     |
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukulgarg0097/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/MukulGarg0097"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:mukulgarg0097@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-### 💼 Experience
-
-| Role                        | Company               | Domain                       | Location         | Duration           |
-|----------------------------|-----------------------|------------------------------|------------------|--------------------|
-| Project Engineer           | Wipro Ltd             | Java, Backend Dev            | Gurugram, India  | 1 year 7 months    |
-| Ops Manager & Coordinator | Aggarwal Traders      | Business, Accounting         | India            | 3 years            |
-| Backend Dev Intern         | AppNWeb               | Java + Spring Boot           | Gurugram, India  | 4 months           |
-
----
-
-### 🔍 Interests
-
-**ML/AI** – Computer Vision – Generative AI – Data-Driven Product Design – Full-Stack Dev – Smart Homes & IoT – Cloud ML – Embedded Systems
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukulgarg0097/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MukulGarg0097)
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:mukulgarg0097@gmail.com)
-
----
-
-### 💻 Tech Stack
-
-#### 🤖 ML / AI / CV
-`Python` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `CNN` • `Classification` • `EDA`
-
-#### 📊 Data Viz / BI
-`Power BI` • `Matplotlib` • `Seaborn` • `Pandas` • `Streamlit`
-
-#### 🚀 Programming Languages
-`Python` • `Java` • `SQL` • `Embedded C`
-
-#### ⚛️ Backend / DB
-`Spring Boot` • `Hibernate` • `MySQL` • `REST APIs` • `Postman`
-
-#### ☁️ Cloud & Tools
-`AWS (EC2)` • `Git` • `Docker` • `Tinkercad` • `Arduino` • `Raspberry Pi`
+### 📊 GitHub Stats (Auto-updating)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulGarg0097&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukulGarg0097&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulGarg0097&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
-
-#### 🧬 BioMed RAG Chatbot
-**FAISS + Sentence Transformers + Gemma**
-🔍 Retrieval-Augmented Generation chatbot for biomedical research, leveraging FAISS vector store and local LLM for evidence-based, context-aware answers.
-
-#### 🥗 Calorie Detection from Food Images  
-**CNN + OpenCV + TensorFlow + Flask UI**  
-⏱️ Real-time calorie estimator (92% accuracy)
-
-#### 💳 Credit Card Default Prediction  
-**Scikit-learn + EDA + Cross-Validation**  
-📉 87% accuracy + 12% F1 boost through tuning
-
-#### 🏠 MyRoomie – PG Room Booking Platform  
-**Java + Spring Boot + MySQL + Postman**  
-📍 Location-based PG search, room availability, session-based authentication
-
-#### 📊 Hospital Waiting List Dashboard  
-**Power BI + DAX + RLS**  
-📅 Multi-year analytics with age, specialty, and case segmentation
+- **🧬 BioMed RAG Chatbot** — FAISS + Sentence Transformers + Gemma. Evidence-grounded biomedical Q&A.  
+- **🏠 MyRoomie** — Spring Boot + MySQL PG discovery & booking platform with session auth.  
+- **📊 Hospital Waiting List Dashboard** — Power BI + DAX multi-year analytics & segmentation.  
+- **💳 Credit Card Default Prediction** — Scikit-learn ML pipeline with tuned Random Forest (AUC 0.9265).  
+- **🤖 RL Prompt Tuner** — Multi-agent RL for prompt optimization.
 
 ---
 
+### 📅 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 ### 🧠 Philosophy
-
 > "Design with purpose. Code with impact. Learn endlessly."
 
 🧩 Problem-solver at heart | 🎯 Aim: Build intelligent systems for a smarter world  
-🛠️ Debugging life one project at a time...
+🛠 Debugging life one project at a time...
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:22c55e" />
+</p>
