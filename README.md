@@ -136,34 +136,6 @@ Hi, I'm **Mukul Garg**, a developer and data scientist passionate about building
 
 ---
 
-## 📅 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## ⭐ Top Starred Repositories
-<!-- TOPSTAR:START -->
-<!-- TOPSTAR:END -->
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 Contributions & Activity
-
-<img src="https://raw.githubusercontent.com/MukulGarg0097/MukulGarg0097/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukulGarg0097&theme=react-dark&days=30&radius=15" alt="GitHub Activity Graph" width="100%" />
-</a>
-
----
-
 # 🚀 **Building the Future One Project at a Time**  
 **Code — Optimize — Deploy — Repeat**  
 And yes… I debug my coffee before my code ☕😉
