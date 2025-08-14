@@ -14,6 +14,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,aws,docker,spring,git,mysql,opencv,tensorflow,powerbi&theme=dark" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulGarg0097&theme=tokyonight" />
