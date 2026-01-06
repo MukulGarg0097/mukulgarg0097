@@ -40,7 +40,8 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 | Role | Company | Focus | Location | Duration |
 |------|---------|-------|----------|----------|
 | Project Engineer (Java Backend) | Wipro Ltd | Spring Boot, REST APIs, SQL | Gurugram, India | Jun 2019 – Jan 2024 |
-| Java Backend Developer (Intern) | AppNWeb | Java, Spring Boot, Hibernate | Gurugram, India | 4 months |
+| Java Backend Developer (Intern) | AppNWeb | Java, Spring Boot, Hibernate | Gurugram, India | Jan 2019 – May 2019 |
+| Pizza Maker and Delivery Driver (Part-Time Work) | Gino’s Pizza | Java, Spring Boot, Hibernate | Vaughan, ON | July 2024 - April 2025 |
 
 ---
 
@@ -77,16 +78,6 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulGarg0097&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulGarg0097&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulGarg0097&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/mukulgarg0097/) ·
