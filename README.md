@@ -41,7 +41,7 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 |------|---------|-------|----------|----------|
 | Project Engineer (Java Backend) | Wipro Ltd | Spring Boot, REST APIs, SQL | Gurugram, India | Jun 2019 – Jan 2021 |
 | Java Backend Developer (Intern) | AppNWeb | Java, Spring Boot, Hibernate | Gurugram, India | Jan 2019 – May 2019 |
-| Ops Manager & Coordinator | Aggarwal Traders | Business, Accounting | India | 3 yrs |
+| Ops Manager & Coordinator | Aggarwal Traders | Business, Accounting | India | Jan 2021 – April 2024 |
 | Pizza Maker and Delivery Driver (Part-Time Work) | Gino’s Pizza | Java, Spring Boot, Hibernate | Vaughan, ON | July 2024 - April 2025 |
 
 ---
