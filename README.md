@@ -5,10 +5,9 @@
 
 <h2 align="center">👋 Hey, I'm Mukul Garg</h2>
 <h3 align="center">
-Machine Learning Engineer • Backend Engineer • AI & Computer Vision <br/>
+AI/ML Engineer • Backend Developer • Computer Vision <br/>
 <a href="http://mukulgarg.netlify.app" target="_blank">🌐 mukulgarg.netlify.app</a>
 </h3>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mukulgarg0097/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -20,8 +19,8 @@ Machine Learning Engineer • Backend Engineer • AI & Computer Vision <br/>
 ---
 
 ### 🧭 About
-- 🎓 **Post Graduate Certificate – Artificial Intelligence & Data Science**, Loyalist College, Toronto (2024–2025)  
-- 💼 **Ex-Wipro – Java Backend Engineer**, building enterprise-scale APIs and systems  
+- 🎓 **Post Graduate Diploma – Artificial Intelligence & Data Science**, Loyalist College, Toronto (2024 – Dec 2025)
+- 💼 4+ years of software engineering experience across enterprise (Wipro) and backend development (App&Web)
 - 🔭 Current focus: **production ML systems**, **computer vision**, **RAG architectures**, **MLOps & CI/CD**
 
 I specialize in building **end-to-end ML systems** that combine strong backend engineering with applied machine learning, from data ingestion and model training to deployment and monitoring.
@@ -29,55 +28,66 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 ---
 
 ### 🎓 Education
-| Program | Institution | Location | Years |
-|--------|-------------|----------|-------|
-| AI & Data Science (PG Cert) | Loyalist College | Toronto, Canada | 2024–2025 |
-| B.Tech in Electronics & Communication | Chandigarh Engineering College | Mohali, India | 2015–2019 |
+| Program | Institution | Location | Completed |
+|--------|-------------|----------|-----------|
+| Post Graduate Diploma in AI & Data Science | Loyalist College | Toronto, Canada | 12/2025 |
+| Bachelors in Electronics & Communication Engineering | Chandigarh Engineering College | India | 05/2019 |
 
 ---
 
 ### 💼 Experience
 | Role | Company | Focus | Location | Duration |
 |------|---------|-------|----------|----------|
-| Project Engineer (Java Backend) | Wipro Ltd | Spring Boot, REST APIs, SQL | Gurugram, India | June 2019 – January 2021 |
-| Java Backend Developer | App&Web | Java, Spring Boot, Hibernate | Gurugram, India | Jan 2021 – March 2024 |
-| Pizza Maker and Delivery Driver (Part-Time Work) | Gino’s Pizza | Java, Spring Boot, Hibernate | Vaughan, ON | July 2024 - April 2025 |
+| Java Backend Developer | App&Web | Java, Spring Boot, Microservices, REST APIs | Gurugram, India | 01/2021 – 03/2024 |
+| Project Engineer | Wipro Ltd | Java, Spring Boot, REST APIs, SQL | Gurugram, India | 06/2019 – 01/2021 |
+
+### 🧑‍💼 Additional Experience
+| Role | Company | Location | Duration |
+|------|---------|----------|----------|
+| Security Guard | Securitas Canada | Toronto, ON | 07/2026 – Present |
+| Security Guard | Armour Security | Toronto, ON | 04/2025 – 06/2026 |
+| Pizza Maker & Driver | Gino's Pizza | Vaughan, ON | 07/2024 – 04/2025 |
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,git,github,linux,docker,aws,tensorflow,sklearn,opencv,hibernate,postman,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cplusplus,c,js,spring,hibernate,mysql,fastapi,git,github,linux,docker,aws,azure,tensorflow,pytorch,sklearn,opencv,postman,html,css&theme=dark" />
 </p>
 
-**ML / AI:** Python · TensorFlow · scikit-learn · OpenCV · CNNs · Computer Vision · EDA  
-**Backend:** Java · Spring Boot · Hibernate · REST APIs · MySQL  
-**Data / BI:** Pandas · NumPy · Power BI · Matplotlib · Streamlit  
-**Cloud / DevOps:** AWS EC2 · Docker · CI/CD · Git  
-**Hardware / IoT:** Raspberry Pi · Arduino  
+**Languages:** Python · Java · SQL · C · C++ · JavaScript  
+**Generative AI & Data Science:** LangChain · LlamaIndex · FAISS · LLMs · RAG Pipelines · Prompt Engineering · TensorFlow · PyTorch · Scikit-learn · CNNs  
+**Computer Vision:** OpenCV · YOLOv8 · DeepFace  
+**Backend:** Java · Spring Boot · Hibernate · FastAPI · REST APIs · MySQL  
+**Data & Risk Analytics:** Risk Modeling · EDA · Statistical Analysis · Data Governance · Power BI  
+**Cloud / DevOps:** AWS · Azure · Docker · CI/CD · Git
 
 ---
 
 ### 🚀 Featured Projects
-- **🎥 SkillScreen – AI Interview & Proctoring Platform**  
-  Designed and developed a **microservices-based AI interview platform** for resume parsing, personalized interview generation, and automated candidate evaluation. Built backend services for secure document and video management, implemented **computer vision–based proctoring** (YOLOv8, OpenCV, DeepFace), and deployed **production ML pipelines** using Docker, CI/CD, and basic MLOps practices (logging, validation, monitoring).
+- **🧬 Biomedical RAG Chatbot**  
+  Retrieval-augmented generation platform built with **FAISS**, **Sentence Transformers**, **Gemma**, and **Streamlit**, enabling efficient semantic search and context-aware medical document querying.
 
-- **🧬 BioMed RAG Chatbot**  
-  Biomedical Retrieval-Augmented Generation system using **FAISS**, **Sentence Transformers**, and **Gemma LLM** to deliver context-aware, evidence-backed answers.
+- **🎥 SkillScreen – AI-Powered Proctoring & Interview Platform**  
+  Engineered real-time identity verification pipelines using computer vision models (**YOLOv8**, **OpenCV**, **DeepFace**) to flag behavioral anomalies and risk events, deploying containerized microservices on **FastAPI**, **Docker**, and **Azure**.
 
-- **🏠 MyRoomie**  
-  Spring Boot–based PG booking platform with location-based search, real-time availability, reservations, and session-based authentication.
-
-- **📊 Hospital Waiting List Dashboard (2018–2021)**  
-  Power BI dashboard with multi-year analytics, advanced **DAX**, dynamic KPIs, and **Row-Level Security (RLS)**.
+- **📊 Credit Card Default & Risk Prediction Platform**  
+  Designed machine learning classification algorithms in **Python** and **Scikit-learn** to predict default probability and tackle asset exposure hazards through rigorous hyperparameter tuning.
 
 - **🤖 RL Prompt Tuner**  
-  Multi-agent reinforcement learning framework to optimize LLM prompt clarity, relevance, and factual accuracy using structured reward functions.
+  Implemented reinforcement learning workflows to optimize Large Language Model outputs and prompt behavior.
+
+<details>
+<summary>Other projects</summary>
+
+- **🏠 MyRoomie** — Spring Boot–based PG booking platform with location-based search, real-time availability, reservations, and session-based authentication.
+- **📈 Hospital Waiting List Dashboard (2018–2021)** — Power BI dashboard with multi-year analytics, advanced DAX, dynamic KPIs, and Row-Level Security (RLS).
+
+</details>
 
 > Explore more in my pinned repositories 👇
 
 ---
-
 
 ### 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/mukulgarg0097/) ·
@@ -87,7 +97,7 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 ---
 
 ### 🧠 Philosophy
-> “Design with purpose. Code with impact. Learn endlessly.”
+> "Design with purpose. Code with impact. Learn endlessly."
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:22c55e" />
