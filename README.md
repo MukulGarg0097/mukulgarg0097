@@ -41,7 +41,7 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 | Java Backend Developer | App&Web | Java, Spring Boot, Microservices, REST APIs | Gurugram, India | 01/2021 – 03/2024 |
 | Project Engineer | Wipro Ltd | Java, Spring Boot, REST APIs, SQL | Gurugram, India | 06/2019 – 01/2021 |
 
-### 🧑‍💼 Additional Experience
+### 👨‍⚖️ Additional Experience
 | Role | Company | Location | Duration |
 |------|---------|----------|----------|
 | Security Guard | Securitas Canada | Toronto, ON | 07/2026 – Present |
