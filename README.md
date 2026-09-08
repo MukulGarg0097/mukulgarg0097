@@ -11,7 +11,7 @@ AI/ML Engineer • Backend Developer • Computer Vision <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mukulgarg0097/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mukulgarg0097@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:gargmukul0097@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/MukulGarg0097?tab=followers"><img src="https://img.shields.io/github/followers/MukulGarg0097?label=Follow&style=social"></a>
   <img src="https://komarev.com/ghpvc/?username=MukulGarg0097&style=flat&color=blue" alt="profile views"/>
 </p>
@@ -92,7 +92,7 @@ I specialize in building **end-to-end ML systems** that combine strong backend e
 ### 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/mukulgarg0097/) ·
 [GitHub](https://github.com/MukulGarg0097) ·
-[Email](mailto:mukulgarg0097@gmail.com)
+[Email](mailto:gargmukul0097@gmail.com)
 
 ---
 
